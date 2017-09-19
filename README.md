@@ -1,4 +1,4 @@
-# LineSpliter
+# LineSpliter :globe_with_meridians:
 Helps to split line with the particular pattern. 
 
 -- This is application is based on java --
