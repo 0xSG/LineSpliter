@@ -7,6 +7,4 @@ Helps to split line with the particular pattern.
  * Press the split button to split the line into multiple lines based on the patterns present in the line.
  
  -If you found any bugs you can pull request
-                                              **////        ////   ////**
-                                             **////0XPULSAR////SGK////**
-                                            **////        ////   ////**
+       **////0XPULSAR////SGK////**
