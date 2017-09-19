@@ -6,4 +6,7 @@ Helps to split line with the particular pattern.
  * After that we have to put the pattern in the pattern field given.
  * Press the split button to split the line into multiple lines based on the patterns present in the line.
  
-//// If you found any bugs or any better core you can pull request ////
+ -If you found any bugs you can pull request
+                                              **////        ////   ////**
+                                             **////0XPULSAR////SGK////**
+                                            **////        ////   ////**
